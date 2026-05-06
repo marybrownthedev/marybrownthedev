@@ -38,7 +38,7 @@ $ cat profile.yaml
 Name        : Mary
 Role        : PHP Engineer & WordPress Architect
 Location    : 🇺🇸 United States
-Experience  : 4+ Years in PHP & WordPress
+Experience  : 8+ Years in PHP & WordPress
 Passion     : Crafting Robust, Scalable Web Solutions
 Status      : Available for New Projects ✅
 ---
