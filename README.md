@@ -244,27 +244,12 @@ Status      : Available for New Projects ✅
 
 ---
 
-## 📬 Let's Build Something Amazing
-
 <div align="center">
 
 ### Got a WordPress or PHP project? Let's turn it into something exceptional.
 
 <br/>
 
-<a href="https://calendly.com/mary" target="_blank">
-  <img src="https://img.shields.io/badge/📅 Book a Call-006BFF?style=for-the-badge&logo=calendly&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/mary" target="_blank">
-  <img src="https://img.shields.io/badge/💼 Hire on LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://mary.dev" target="_blank">
-  <img src="https://img.shields.io/badge/🌐 View Portfolio-e91e8c?style=for-the-badge&logo=firefox-browser&logoColor=white" />
-</a>
-
-</div>
 
 ---
 
