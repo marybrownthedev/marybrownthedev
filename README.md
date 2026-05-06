@@ -205,7 +205,7 @@ Status      : Available for New Projects ✅
 ## 🧩 Fun Facts
 
 - ⚡ I treat every project like a **product** — not just a task
-- 🐘 PHP is my mother tongue — I've been writing it for **4+ years** and it still excites me
+- 🐘 PHP is my mother tongue — I've been writing it for **8+ years** and it still excites me
 - 🔌 Built **30+ WordPress plugins** from scratch with clean, documented code
 - 🛒 WooCommerce is my playground — custom gateways, shipping rules, you name it
 - 📚 I learn something new **every single day**
